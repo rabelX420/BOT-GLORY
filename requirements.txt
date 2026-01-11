@@ -2,5 +2,6 @@ Flask
 pycryptodome
 requests
 protobuf
+protobuf-decoder
 PyJWT
 aiohttp
